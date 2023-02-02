@@ -1,14 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Home</title>
-</head>
-<body>
-    <button class="social"><a class="sociallink" href="https://www.google.com">Click Me</a></button>
+body{
+    background-color: rgb(230, 35, 35);
     
-</body>
-</html>
+}
+
+.social{
+    padding: 10px;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    width: 150px;
+    height:70px;
+    border-radius: 10%;
+    border-color: aliceblue;
+    border-width: 5px;
+    
+
+}
+
+.sociallink{
+    font-size:20px;
+    color:black;
+}

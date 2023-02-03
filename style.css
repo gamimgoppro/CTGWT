@@ -1,12 +1,13 @@
 body{
-    background-color: rgb(14, 219, 247);
+    background-image: url(https://preview.redd.it/badwslo9cr051.jpg?width=960&crop=smart&auto=webp&v=enabled&s=e34e0e429d7cf15be0d0bb2f70b4157dcba38fc9);
 
     
 }
 h1{
 font-size: 50px;
 position: absolute;
-
+color: white;
+mix-blend-mode: color-dodge;
 
 }
 
